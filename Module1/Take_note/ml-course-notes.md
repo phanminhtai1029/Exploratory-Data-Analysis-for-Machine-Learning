@@ -1,4 +1,4 @@
-# Machine Learning Course - Comprehensive Student Notes
+# Machine Learning Course - Module 1
 
 ## Chapter 1: Introduction to Artificial Intelligence and Machine Learning
 
