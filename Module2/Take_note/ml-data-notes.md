@@ -1,4 +1,4 @@
-# Machine Learning Data Fundamentals - Complete Study Notes
+# Machine Learning Data Fundamentals - Module 2
 
 ## Part 1: Data Retrieval from Multiple Sources
 
