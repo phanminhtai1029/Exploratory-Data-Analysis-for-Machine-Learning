@@ -1,4 +1,4 @@
-# Machine Learning Course Notes: Exploratory Data Analysis & Feature Engineering
+# Machine Learning Course - Module 3
 
 ## Section 1: Exploratory Data Analysis (EDA)
 
