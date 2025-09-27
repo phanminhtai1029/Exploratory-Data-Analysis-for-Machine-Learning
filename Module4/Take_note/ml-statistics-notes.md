@@ -1,4 +1,4 @@
-# Machine Learning: Statistical Foundations - Comprehensive Notes
+# Machine Learning Course - Module 4
 
 ## Section 1: Estimation vs. Inference in Statistics
 
